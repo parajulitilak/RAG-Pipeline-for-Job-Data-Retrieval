@@ -8,7 +8,7 @@ The system is fully containerized using Docker and is optimized for high-latency
 
 For a detailed engineering report covering architectural decisions, system design diagrams, and trade-off analysis, please refer to the full documentation:
 
-[**View Full Architecture Report (PDF)**](./LF_Jobs_RAG_Report.pdf)
+[**View Full Architecture Report (PDF)**](./RAG%20Pipeline%20for%20Job%20Data%20Retrieval.pdf)
 
 ## Key Features
 
